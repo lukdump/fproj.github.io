@@ -1,0 +1,31 @@
+P{
+    color: rgb(223, 227, 234);
+    text-align: center;
+    margin-top: 200px;
+    font-size: 40px;
+}
+#yes{
+    background-color: green;
+}
+#no{
+    background-color: red;
+}
+.flex-parent{
+    display: flex;
+}
+.jc-center{
+    justify-content: center;
+}
+button.marginright{
+    margin-right: 20px;
+}
+.btn{
+    border-style: groove; 
+    font-size: 25px; 
+    color: white; 
+    border-top-color: burlywood;
+    border-bottom-color: burlywood; 
+    border-left-color: burlywood; 
+    border-right-color: burlywood;
+     margin: 5px;
+}
